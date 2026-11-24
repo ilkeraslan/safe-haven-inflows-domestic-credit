@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Data and code for: Safe-haven inflows, foreign exchange intervention and domestic credit"
+type: software
+authors:
+  - family-names: Aslan
+    given-names: Ilker
+    orcid: "https://orcid.org/0000-0001-9241-9420"
+    affiliation: "Kalaidos University of Applied Sciences"
+license: MIT
+repository-code: "https://github.com/ilkeraslan/safe-haven-inflows-domestic-credit"
+keywords:
+  - safe-haven currency
+  - foreign exchange intervention
+  - central bank reserves
+  - bank credit
+  - Swiss franc
+  - Danish krone
+  - local projections
+preferred-citation:
+  type: report
+  title: "Safe-haven inflows, foreign exchange intervention and domestic credit: Evidence from Switzerland and Denmark"
+  authors:
+    - family-names: Aslan
+      given-names: Ilker
+      orcid: "https://orcid.org/0000-0001-9241-9420"
+      affiliation: "Kalaidos University of Applied Sciences"
+  institution:
+    name: "Kalaidos University of Applied Sciences"
+  year: 2026
+  month: 11
+  url: "https://ilkeraslan.github.io/papers/safe-haven-inflows-and-domestic-credit.html"
